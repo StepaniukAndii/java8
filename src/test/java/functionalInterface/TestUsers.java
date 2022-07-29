@@ -1,4 +1,4 @@
-package lambda;
+package functionalInterface;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
